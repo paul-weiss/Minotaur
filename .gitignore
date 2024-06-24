@@ -6,3 +6,4 @@ target/
 **/stacks.folded
 **/out.user_stacks
 **/*.log
+*.lock
